@@ -17,92 +17,25 @@ Postman de JSON ile sunucuya request gönderip response alma işlemlerinin gerç
 
 PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, silme gibi CRUD işlemlerini ve SQL sorguları ile veri çekme, veri kaydetme işlemlerinin gerçekleştirilmesi.
 
-## :file_folder: Dataset
-The dataset used can be downloaded here - [Click to Download](https://github.com/bertuginal/Face-Mask-Detection/tree/master/Face-Mask-Detection/data)
+## :warning: Hangi Teknolojiler Kullanıldı?
 
-This dataset consists of __5106 images__ belonging to two classes:
-*	__with_mask: 3158 images__
-*	__without_mask: 1948 images__
+- [Java](https://www.java.com/tr/)
+- [Spring Boot](https://spring.io/projects/spring-boot)
+- [PostgreSQL](https://www.postgresql.org)
+- [Postman](https://www.postman.com)
+- [JSON](https://www.json.org/json-en.html)
 
-The images used were real images of faces wearing masks. The images were collected from the following sources:
-
-* __Kaggle datasets__ 
-* __Various videos__
-* __Udemy tutorials__
-
-
-## :warning: Libraries used
-
-- [OpenCV](https://opencv.org/)
-- [Keras](https://keras.io/)
-- [TensorFlow](https://www.tensorflow.org/)
-- [Numpy](https://numpy.org)
-- [Sklearn](https://scikit-learn.org/)
-- [Matplotlib](https://matplotlib.org)
-- [Imutils](https://pypi.org/project/imutils/)
-- [Os](https://pypi.org/project/os-sys/)
-
-## :warning: Haar-cascade used
-It is a method applied to find objects on the image. This method is called haar-like features. I used the "[haarcascade_frontalface_default.xml](https://github.com/bertuginal/Face-Mask-Detection/blob/master/Face-Mask-Detection/data/haarcascade_frontalface_default.xml)" file in this project.
-
-You can download all the haarcascade xml files you need from [here](https://github.com/opencv/opencv/tree/master/data/haarcascades).
-
-## 🚀&nbsp; Installation
+## 🚀&nbsp; Aşağıdaki yönlendirmeler ile projeyi indirebilirsiniz!
 1. Clone the repo
 ```
-$ git clone https://github.com/bertuginal/Face-Mask-Detection.git
+$ git clone https://github.com/bertuginal/Etiya-Java-Spring-Boot.git
 ```
 2. Now, run the following command in your Terminal/Command Prompt to install the libraries required
 ```
 $ pip3 install -r requirements.txt
 ```
 
-## :bulb: Working
+## :clap: Ve Herşey Tamam!
+Herhangi bir öneriniz veya sorunuz için bana e-posta göndermekten çekinmeyin! :email: bertuginal@yahoo.com
 
-1. Open terminal. Type the following command to train the model:
-```
-$ python3 Train.py --dataset data
-```
-
-2. To detect face masks in real-time video streams type the following command:
-```
-$ python3 Test.py 
-```
-## :key: Results
-
-<h4 align="center"> My model gave 98% accuracy for Face Mask Detection after training via <code>tensorflow-gpu==2.5.0</code> </h4>
-
-####          
-<div align="center"><img src="https://github.com/bertuginal/Face-Mask-Detection/blob/dd383d0bc96cd6ab9d15823f96756e89df7623f7/img/train-cmd.png" width="500"></div>
-
----
-
-<h4 align="center"> I got the following accuracy/loss training curve plot.</h4>
-
-<div align="center"><img src="https://github.com/bertuginal/Face-Mask-Detection/blob/4a8151b8c1ed169b2d1c1d795c2c4e91695f4d67/img/graphic.png" width="500"></div>
-
-## :point_down: Images
-
-<h3 align="center"> FRAME: With Mask</h3>
-<h4 align="center">I got 98.85% accuracy when wearing a face mask.</h4>
-<br>
-<div align="center"><img src="https://github.com/bertuginal/Face-Mask-Detection/blob/09241e369c708898dd197a3ede1c9592183ca614/img/withmask.jpg" width="700"></div>
-
----
-
-<h3 align="center"> FRAME: Without Mask</h3>
-<h4 align="center">I got 99.77% accuracy when we were not wearing a face mask.</h4>
-<br>
-<div align="center"><img src="https://github.com/bertuginal/Face-Mask-Detection/blob/09241e369c708898dd197a3ede1c9592183ca614/img/withoutmask.jpg" width="700"></div>
-
----
-
-<h3 align="center"> FRAME: Half With Mask</h3>
-<h4 align="center">I got 53.06% accuracy when the face mask is worn under the mouth.</h4>
-<br>
-<div align="center"><img src="https://github.com/bertuginal/Face-Mask-Detection/blob/09241e369c708898dd197a3ede1c9592183ca614/img/half-withmask.jpg" width="700"></div>
-
-## :clap: And it's done!
-Feel free to mail me for any doubts/query :email: bertuginal@yahoo.com
-
-:star: <b>If you like my project, can you click the star to support me?</b>
+:star: <b>Projemi beğendiyseniz bana destek olmak için yıldızlayabilir misiniz?</b>
