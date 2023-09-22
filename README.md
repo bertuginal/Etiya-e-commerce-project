@@ -38,4 +38,4 @@ $ pip3 install -r requirements.txt
 ## :clap: Ve Herşey Tamam!
 Herhangi bir öneriniz veya sorunuz için bana e-posta göndermekten çekinmeyin! :email: bertuginal@yahoo.com
 
-:star: <b>Projemi beğendiyseniz bana destek olmak için yıldızlayabilir misiniz?</b>
+:star: <b>Projemi beğendiyseniz bana destek olmak için yıldızlayabilir misiniz?</b> :star:
