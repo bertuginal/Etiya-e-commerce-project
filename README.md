@@ -26,13 +26,12 @@ PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, si
 - [JSON](https://www.json.org/json-en.html)
 
 ## 🚀&nbsp; Aşağıdaki yönerge ile projeyi indirebilirsiniz!
-1. Clone the repo
+1. CMD istemcisini aç!
+```
+2. Clone the repo
 ```
 $ git clone https://github.com/bertuginal/Etiya-Java-Spring-Boot.git
 ```
-2. Projeyi kullanmaya başlayabilirsiniz! :)
-```
-
 
 ## :clap: Ve Herşey Tamam!
 Herhangi bir öneriniz veya sorunuz için bana e-posta göndermekten çekinmeyin! :email: bertuginal@yahoo.com
