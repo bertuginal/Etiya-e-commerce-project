@@ -1,4 +1,4 @@
-<h1 align="center">ETİYA BİLGİ TEKNOLOJİLERİ YAZILIM SANAYİ VE TİCARET A.Ş</h1>
+<h2 align="center">ETİYA BİLGİ TEKNOLOJİLERİ YAZILIM SANAYİ VE TİCARET A.Ş</h2>
 
   <h4 align="center">Spring Boot framework kullanılarak Java Programlama dilinde MicroService yazarak geliştirilen e-ticaret sitesinin back-end projesidir.</h4>
 
