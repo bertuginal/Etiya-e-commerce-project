@@ -1,5 +1,5 @@
 # Etiya-Java-Spring-Boot
-<h1 align="center">ETIYA INFORMATION TECHNOLOGY</h1>
+<h1 align="center">ETİYA BİLGİ TEKNOLOJİLERİ YAZILIM SANAYİ VE TİCARET A.Ş</h1>
 
   <h4 align="center">Spring Boot framework kullanılarak Java Programlama dilinde MicroService yazarak geliştirilen e-ticaret sitesinin back-end projesidir.</h4>
 
