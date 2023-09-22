@@ -1,4 +1,3 @@
-# Etiya-Java-Spring-Boot
 <h1 align="center">ETİYA BİLGİ TEKNOLOJİLERİ YAZILIM SANAYİ VE TİCARET A.Ş</h1>
 
   <h4 align="center">Spring Boot framework kullanılarak Java Programlama dilinde MicroService yazarak geliştirilen e-ticaret sitesinin back-end projesidir.</h4>
@@ -11,11 +10,11 @@
 ---
 
 ## :star: Neler yapıldı?
-Spring Boot framework kullanılarak Java programlama dilinde MicroService yazarak API ile dış dünya ile bağlantı kurulması.
+Spring Boot framework kullanılarak Java programlama dilinde MicroService yazarak API ile dış dünya ile bağlantı kuruldu.
 
-Postman de JSON ile sunucuya request gönderip response alma işlemlerinin gerçekleştirilmesi.
+Postman de JSON ile sunucuya request gönderip response alma işlemleri gerçekleştirildi.
 
-PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, silme gibi CRUD işlemlerini ve SQL sorguları ile veri çekme, veri kaydetme işlemlerinin gerçekleştirilmesi.
+PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, silme gibi CRUD işlemlerini ve SQL sorguları ile veri çekme, veri kaydetme işlemleri gerçekleştirildi.
 
 ## :warning: Hangi Teknolojiler Kullanıldı?
 
