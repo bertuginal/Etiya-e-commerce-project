@@ -10,8 +10,12 @@
 
 ---
 
-## :star: Features
-This system can be used in real-time applications that require face mask detection for security purposes due to the increase in the Covid-19 outbreak. This project can be integrated with embedded systems for application in airports, train stations, offices, schools and public places to ensure compliance with public safety guidelines.
+## :star: Neler yapıldı?
+Spring Boot framework kullanılarak Java programlama dilinde MicroService yazarak API ile dış dünya ile bağlantı kurulması.
+
+Postman de JSON ile sunucuya request gönderip response alma işlemlerinin gerçekleştirilmesi.
+
+PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, silme gibi CRUD işlemlerini ve SQL sorguları ile veri çekme, veri kaydetme işlemlerinin gerçekleştirilmesi.
 
 ## :file_folder: Dataset
 The dataset used can be downloaded here - [Click to Download](https://github.com/bertuginal/Face-Mask-Detection/tree/master/Face-Mask-Detection/data)
