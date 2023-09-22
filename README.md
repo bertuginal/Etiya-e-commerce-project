@@ -28,11 +28,11 @@ PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, si
 1. CMD istemcisini aç!
 ```
 WIN+R ile "Çalıştır" kutusunu açarak cmd yazıyoruz.
-
+```
 2. Repository indirmek için cmd istemcisine aşağıdaki kod ile clone işlemi!
 ```
 $ git clone https://github.com/bertuginal/Etiya-Java-Spring-Boot.git
-
+```
 
 ## :clap: Ve Herşey Tamam!
 Herhangi bir öneriniz veya sorunuz için bana e-posta göndermekten çekinmeyin! :email: bertuginal@yahoo.com
