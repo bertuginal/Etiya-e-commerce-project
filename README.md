@@ -10,8 +10,6 @@
 
 ---
 
-<div align="center"><img src="https://github.com/bertuginal/Face-Mask-Detection/blob/11843b8124b3467f5324997a690ce9fefcb73c2b/img/Face-mask.gif" width="500"></div>
-
 ## :star: Features
 This system can be used in real-time applications that require face mask detection for security purposes due to the increase in the Covid-19 outbreak. This project can be integrated with embedded systems for application in airports, train stations, offices, schools and public places to ensure compliance with public safety guidelines.
 
