@@ -23,7 +23,7 @@
 - [Postman](https://www.postman.com)
 - [JSON](https://www.json.org/json-en.html)
 
-## 🚀&nbsp; Aşağıdaki yönerge ile projeyi indirebilirsiniz!
+## 🚀&nbsp; Aşağıdaki yönlendirmeler ile projemi indirebilirsiniz!
 1. CMD istemcisini aç!
 ```
 WIN+R ile "Çalıştır" kutusunu açarak cmd yazıyoruz.
@@ -33,7 +33,7 @@ WIN+R ile "Çalıştır" kutusunu açarak cmd yazıyoruz.
 $ git clone https://github.com/bertuginal/Etiya-Java-Spring-Boot.git
 ```
 
-## :clap: Ve Herşey Tamam!
+## :clap: Bana ulaşabilirsiniz!
 Herhangi bir öneriniz veya sorunuz için bana e-posta göndermekten çekinmeyin! :email: bertuginal@yahoo.com
 
 :star: <b>Projemi beğendiyseniz bana destek olmak için yıldızlayabilir misiniz?</b> :star:
