@@ -25,15 +25,14 @@ PostgreSQL veri tabanı yönetim sisteminde verileri oluşturma, güncelleme, si
 - [Postman](https://www.postman.com)
 - [JSON](https://www.json.org/json-en.html)
 
-## 🚀&nbsp; Aşağıdaki yönlendirmeler ile projeyi indirebilirsiniz!
+## 🚀&nbsp; Aşağıdaki yönerge ile projeyi indirebilirsiniz!
 1. Clone the repo
 ```
 $ git clone https://github.com/bertuginal/Etiya-Java-Spring-Boot.git
 ```
-2. Now, run the following command in your Terminal/Command Prompt to install the libraries required
+2. Projeyi kullanmaya başlayabilirsiniz! :)
 ```
-$ pip3 install -r requirements.txt
-```
+
 
 ## :clap: Ve Herşey Tamam!
 Herhangi bir öneriniz veya sorunuz için bana e-posta göndermekten çekinmeyin! :email: bertuginal@yahoo.com
